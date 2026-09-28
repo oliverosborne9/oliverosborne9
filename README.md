@@ -18,6 +18,7 @@ Hello. I'm Oliver Osborne.
 
 I work as a software developer in London.
 
+<!--
 ### Projects
 
 I'm working on a side project called ["baaaaaaa" (ba7 for short)](https://github.com/ba7-labs/ba7).
@@ -25,3 +26,4 @@ I'm working on a side project called ["baaaaaaa" (ba7 for short)](https://github
 I have organised the work into a GitHub organisation, [@ba7-labs](https://github.com/ba7-labs).
 
 Please do check it out / critique it / contribute!
+-->
