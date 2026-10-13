@@ -6,6 +6,7 @@
 <picture><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icons/7.3.0/flags/4x3/gb-eng.svg" height="20" alt="England"></picture>
 <picture><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icons/7.3.0/flags/4x3/gb.svg" height="20" alt="United Kingdom"></picture>
 <picture><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icons/7.3.0/flags/4x3/in.svg" height="20" alt="India"></picture>
+<br><em>⮬ these badges are very serious and important ⮭</em>
 </p>
 
 ---
